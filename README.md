@@ -74,7 +74,8 @@ print(result)
     "county": 0.0025,
     "city": 0.0075,
     "special": 0.0325
-  }
+  },
+  "code": 200
 }
 ```
 
